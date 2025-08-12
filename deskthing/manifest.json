@@ -1,0 +1,24 @@
+{
+  "label": "photoframe",
+  "tags": [
+    "screensaver",
+    "webappOnly"
+  ],
+  "requires": [],
+  "version": "0.11.4",
+  "requiredVersions": {
+    "server": ">=0.0.0",
+    "client": ">=0.11.2"
+  },
+  "description": "None",
+  "author": "Aiden Butler",
+  "platforms": [
+    "windows",
+    "android"
+  ],
+  "repository": "",
+  "homepage": "",
+  "updateUrl": "",
+  "id": "photoframe",
+  "template": "base"
+}
