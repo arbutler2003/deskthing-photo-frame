@@ -1,10 +1,13 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
+import { ImageViewer } from './ImageViewer'
 import './index.css'
-import App from './App'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <App />
+    <ImageViewer 
+      imageUrl='/public/test-photo.png'
+      altText='Test Photo '
+      />
   </StrictMode>,
 )

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, {useEffect, useState} from "react";
 import { DeskThing } from "@deskthing/client";
 import { AppSettings, DEVICE_CLIENT } from "@deskthing/types";
 
